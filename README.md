@@ -18,4 +18,4 @@ You can view the live demo of the loading spinner https://loading-spin.vercel.ap
 
 ## Credits
 
-This project is hosted on https://vercel.com/ and was created by Juhi Dugar.
+This project is hosted on https://vercel.com/ .
